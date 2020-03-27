@@ -1,0 +1,3 @@
+#Een programma dat een waardering geeft voor een in te geven woord. Het idee is dat de waardering aangeeft hoe sterk/zwak het woord is om als wachtwoord te gebruiken.Een sterker wachtwoord krijgt een hogere waardering.
+
+Ik heb hier een password checker gemaakt. Dit programma checkt eerst of het wachtwoord lager is dan 8 karakters. Als dit waar  is dan geeft hij weer dat het wachtwoord slecht is. Als het niet waar is dan gaat hij verder en checkt hij of hij hoofdletters bevat en of hij speciale tekens bevat. Als dit waar is dan geeft hij weer dat het een goed wachtwoord is. Als dit niet waar is dan geeft hij weer dat het een redelijk wachtwoord is.
